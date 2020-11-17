@@ -1,2 +1,3 @@
 # Twitter BOT
-This bot was created to seek for Belo Horizonte's current temperature and publish the informations on the Twitter Timeline. This is a simple facility developed for academic and personal reasons.
+This bot was created to fetch the current temperature of Belo Horizonte and publish the information on the Twitter timeline. This is a simple installation developed for academic and personal reasons.
+You can check out the atualizations searching for @tempbh on Twitter website.
